@@ -7,6 +7,8 @@
 ## Overview
 
 The WordPress Setup Automator is a powerful PHP script designed to streamline the WordPress installation process. It guides users through database configuration and automates the creation of a new WordPress instance.
+
+
 <img src='images/WordPress-Setup-Automator_Main.png' alt="StunsIO WordPress Automator Main" height='300px'>
 <img src='images/WordPress-Setup-Automator_Info.png' alt="StunsIO WordPress Automator Info" height='300px'>
 
